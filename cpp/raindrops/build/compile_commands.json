@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/raindrops/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\raindrops.dir\\raindrops_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\raindrops\\raindrops_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/raindrops/raindrops_test.cpp",
+  "output": "CMakeFiles/raindrops.dir/raindrops_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/raindrops/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\raindrops.dir\\raindrops.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\raindrops\\raindrops.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/raindrops/raindrops.cpp",
+  "output": "CMakeFiles/raindrops.dir/raindrops.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/raindrops/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\raindrops.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\raindrops\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/raindrops/test/tests-main.cpp",
+  "output": "CMakeFiles/raindrops.dir/test/tests-main.cpp.obj"
+}
+]

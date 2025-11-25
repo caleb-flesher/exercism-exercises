@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/making-the-grade/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -Wno-sign-compare -o CMakeFiles\\making-the-grade.dir\\making_the_grade_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\making-the-grade\\making_the_grade_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/making-the-grade/making_the_grade_test.cpp",
+  "output": "CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/making-the-grade/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -Wno-sign-compare -o CMakeFiles\\making-the-grade.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\making-the-grade\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/making-the-grade/test/tests-main.cpp",
+  "output": "CMakeFiles/making-the-grade.dir/test/tests-main.cpp.obj"
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\vehicle-purchase.dir\\vehicle_purchase_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\vehicle-purchase\\vehicle_purchase_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/vehicle_purchase_test.cpp",
+  "output": "CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\vehicle-purchase.dir\\vehicle_purchase.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\vehicle-purchase\\vehicle_purchase.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/vehicle_purchase.cpp",
+  "output": "CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\vehicle-purchase.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\vehicle-purchase\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/vehicle-purchase/test/tests-main.cpp",
+  "output": "CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.obj"
+}
+]

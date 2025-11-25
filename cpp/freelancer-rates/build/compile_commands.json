@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/freelancer-rates/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\freelancer-rates.dir\\freelancer_rates_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\freelancer-rates\\freelancer_rates_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/freelancer-rates/freelancer_rates_test.cpp",
+  "output": "CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/freelancer-rates/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\freelancer-rates.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\freelancer-rates\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/freelancer-rates/test/tests-main.cpp",
+  "output": "CMakeFiles/freelancer-rates.dir/test/tests-main.cpp.obj"
+}
+]

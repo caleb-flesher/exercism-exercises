@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\interest-is-interesting.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\interest-is-interesting.dir/objects.a @CMakeFiles\interest-is-interesting.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\interest-is-interesting.dir/objects.a -Wl,--no-whole-archive -o interest-is-interesting.exe -Wl,--out-implib,libinterest-is-interesting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\interest-is-interesting.dir\linkLibs.rsp

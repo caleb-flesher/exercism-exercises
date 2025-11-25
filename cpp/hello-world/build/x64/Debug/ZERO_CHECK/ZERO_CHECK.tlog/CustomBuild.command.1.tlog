@@ -1,0 +1,10 @@
+^C:\USERS\CALEB\EXERCISM\CPP\HELLO-WORLD\BUILD\CMAKEFILES\98F41445E02772D15A7F9F63695C4B3C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/caleb/Exercism/cpp/hello-world -BC:/Users/caleb/Exercism/cpp/hello-world/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/caleb/Exercism/cpp/hello-world/build/hello-world.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

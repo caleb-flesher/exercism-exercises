@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/difference-of-squares/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\difference-of-squares.dir\\difference_of_squares_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\difference-of-squares\\difference_of_squares_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/difference-of-squares/difference_of_squares_test.cpp",
+  "output": "CMakeFiles/difference-of-squares.dir/difference_of_squares_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/difference-of-squares/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\difference-of-squares.dir\\difference_of_squares.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\difference-of-squares\\difference_of_squares.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/difference-of-squares/difference_of_squares.cpp",
+  "output": "CMakeFiles/difference-of-squares.dir/difference_of_squares.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/difference-of-squares/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\difference-of-squares.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\difference-of-squares\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/difference-of-squares/test/tests-main.cpp",
+  "output": "CMakeFiles/difference-of-squares.dir/test/tests-main.cpp.obj"
+}
+]

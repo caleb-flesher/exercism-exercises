@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/interest-is-interesting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\interest-is-interesting.dir\\interest_is_interesting_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\interest-is-interesting\\interest_is_interesting_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/interest-is-interesting/interest_is_interesting_test.cpp",
+  "output": "CMakeFiles/interest-is-interesting.dir/interest_is_interesting_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/interest-is-interesting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\interest-is-interesting.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\interest-is-interesting\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/interest-is-interesting/test/tests-main.cpp",
+  "output": "CMakeFiles/interest-is-interesting.dir/test/tests-main.cpp.obj"
+}
+]

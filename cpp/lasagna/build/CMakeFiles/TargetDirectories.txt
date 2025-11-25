@@ -1,0 +1,4 @@
+C:/Users/caleb/Exercism/cpp/lasagna/build/CMakeFiles/lasagna.dir
+C:/Users/caleb/Exercism/cpp/lasagna/build/CMakeFiles/test_lasagna.dir
+C:/Users/caleb/Exercism/cpp/lasagna/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/caleb/Exercism/cpp/lasagna/build/CMakeFiles/ZERO_CHECK.dir

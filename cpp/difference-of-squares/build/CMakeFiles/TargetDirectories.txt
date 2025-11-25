@@ -1,0 +1,4 @@
+C:/Users/caleb/Exercism/cpp/difference-of-squares/build/CMakeFiles/difference-of-squares.dir
+C:/Users/caleb/Exercism/cpp/difference-of-squares/build/CMakeFiles/test_difference-of-squares.dir
+C:/Users/caleb/Exercism/cpp/difference-of-squares/build/CMakeFiles/edit_cache.dir
+C:/Users/caleb/Exercism/cpp/difference-of-squares/build/CMakeFiles/rebuild_cache.dir

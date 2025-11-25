@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/leap/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\leap.dir\\leap_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\leap\\leap_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/leap/leap_test.cpp",
+  "output": "CMakeFiles/leap.dir/leap_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/leap/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\leap.dir\\leap.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\leap\\leap.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/leap/leap.cpp",
+  "output": "CMakeFiles/leap.dir/leap.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/leap/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\leap.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\leap\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/leap/test/tests-main.cpp",
+  "output": "CMakeFiles/leap.dir/test/tests-main.cpp.obj"
+}
+]

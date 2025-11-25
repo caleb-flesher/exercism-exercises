@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/pacman-rules/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\pacman-rules.dir\\pacman_rules_test.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\pacman-rules\\pacman_rules_test.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/pacman-rules/pacman_rules_test.cpp",
+  "output": "CMakeFiles/pacman-rules.dir/pacman_rules_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/caleb/Exercism/cpp/pacman-rules/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\pacman-rules.dir\\test\\tests-main.cpp.obj -c C:\\Users\\caleb\\Exercism\\cpp\\pacman-rules\\test\\tests-main.cpp",
+  "file": "C:/Users/caleb/Exercism/cpp/pacman-rules/test/tests-main.cpp",
+  "output": "CMakeFiles/pacman-rules.dir/test/tests-main.cpp.obj"
+}
+]

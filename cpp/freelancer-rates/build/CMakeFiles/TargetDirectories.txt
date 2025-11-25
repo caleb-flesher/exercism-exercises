@@ -1,0 +1,4 @@
+C:/Users/caleb/Exercism/cpp/freelancer-rates/build/CMakeFiles/freelancer-rates.dir
+C:/Users/caleb/Exercism/cpp/freelancer-rates/build/CMakeFiles/test_freelancer-rates.dir
+C:/Users/caleb/Exercism/cpp/freelancer-rates/build/CMakeFiles/edit_cache.dir
+C:/Users/caleb/Exercism/cpp/freelancer-rates/build/CMakeFiles/rebuild_cache.dir
